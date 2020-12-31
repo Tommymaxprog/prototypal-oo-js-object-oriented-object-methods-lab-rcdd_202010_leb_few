@@ -14,7 +14,7 @@ BoardMember.prototype.approve=function(){
 BoardMember.prototype.doCharity=function(){
   return "I like to help people"
 }
-BoardMember.prototype.=function(){
+BoardMember.prototype.releasePressStatement=function(){
   return "No, I must disagree"
 }
 BoardMember.prototype.veto=function(){
