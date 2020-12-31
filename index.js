@@ -5,4 +5,4 @@ let BoardMember=function(name,homeState,training)
   this.training=training;
   
 }
-BoardMember.prototype.veto
+BoardMember.prototype.veto=function()
